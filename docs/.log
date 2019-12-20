@@ -1,0 +1,280 @@
+katalon.versionNumber=7.1.2
+katalon.buildNumber=1
+!SESSION 2019-12-20 16:33:27.830 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -clear
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault -clear
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-12-20 16:33:30.111
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+Could not find element with Id 'com.kms.katalon.composer.webservice.handledmenuitem.webServiceRequest'
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: PA_LBL_CREATED_DATE in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: PA_LBL_LAST_UPDATED in: com.kms.katalon.composer.testsuite.constants.composerTestsuiteMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+Start check license task
+
+!ENTRY org.eclipse.e4.ui.workbench 1 0 2019-12-20 16:33:53.270
+!MESSAGE Reloading plugins.
+Latest plugins responses: [{"id":32916,"status":1,"expiration_date":null,"created_at":"2019-11-18T04:03:31.105Z","updated_at":"2019-11-18T04:03:31.105Z","active":true,"send_expiration_mail":false,"send_expiration_reminder_mail":false,"user_id":20533,"bundled_plugin_id":null,"product":{"id":59,"plugin_id":null,"name":"Basic Report","description":"Basic Report Plugin is a plugin that replaces for the current Report feature of Katalon Studio. Since version 6.1.5, the Report feature has been migrated to Basic Report plugin.","logo":"m3j3hddvlvinco5i-BasicReport_140px.png","repository":"https://github.com/katalon-studio/katalon-studio-basic-report-plugin","documentation":"https://github.com/katalon-studio/katalon-studio-report-plugin/blob/master/docs/tutorials/usage.md","reference":null,"license":null,"release_date":null,"qa_url":null,"status":1,"created_at":"2019-04-26T09:41:28.208Z","updated_at":"2019-11-14T10:40:51.734Z","overview":"Basic Report Plugin is a plugin that replaces for the current Report feature of Katalon Studio. Since [version 6.1.5](https://docs.katalon.com/katalon-studio/new/version-615.html), the Report feature has been migrated to Basic Report plugin.  Users need to install this plugin to continue using the feature.\r\n\r\n### Basic Report Plugin provides:\r\n- Generates automatically report from Test Suite report after every test execution with various formats: HTML, CSV, JUnit, and PDF.\r\n- Allows users to export manually Test Suite and Test Suite collection report to HTML, CSV, JUnit, and PDF. Right click on the report and choose Export as.\r\n\r\nFor more details, refer to [Basic Report document](https://docs.katalon.com/katalon-studio/docs/basic-report.html).\r\n","price":null,"stripe_product_id":null,"reject_reason":null,"latest_version_number":null,"product_type_id":2,"marketplace_id":null,"product_versions":[{"id":118,"number":"1.0.2","source":"gx1r20f21bg76qli-katalon-studio-report-plugin.zip","status":1,"created_at":"2019-05-15T04:35:14.552Z","updated_at":"2019-09-27T08:53:48.120Z","min_app_version":"6.1.5","max_app_version":null,"change_log":""},{"id":99,"number":"1.0.1","source":"lazh3fjfjz5s1rq7-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-04-26T09:41:28.242Z","updated_at":"2019-09-27T08:53:48.120Z","min_app_version":"6.1.5","max_app_version":null,"change_log":""},{"id":127,"number":"1.0.3","source":"y5cazuxp8qzqqxo2-katalon-studio-basic-report-plugin.zip","status":1,"created_at":"2019-05-24T02:43:18.285Z","updated_at":"2019-09-27T08:53:48.120Z","min_app_version":"6.1.5","max_app_version":null,"change_log":""},{"id":129,"number":"1.0.4","source":"4uc4qvqaug77t726-katalon-studio-basic-report-plugin.zip","status":1,"created_at":"2019-05-24T09:48:58.985Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"6.2.0","max_app_version":null,"change_log":""},{"id":145,"number":"1.0.5","source":"taschuj5zkw1sm7z-katalon-studio-report-plugin.zip","status":1,"created_at":"2019-06-20T08:44:52.820Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"6.2.0","max_app_version":null,"change_log":""},{"id":186,"number":"1.0.6","source":"kzxu34vz9lggwtiq-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-08-15T09:07:34.663Z","updated_at":"2019-09-27T08:53:48.114Z","min_app_version":"6.3.0","max_app_version":null,"change_log":"- Fixed issue \"Cannot export PDF file without image attached\"\r\n- Fixed issue \"Cannot export PDF report if a test step's message contains any special characters\""},{"id":195,"number":"1.0.7","source":"jt7qhc1tiym43jn2-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-09-27T08:07:45.367Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"Fix issue \"Cannot export reports in MacOs\""},{"id":214,"number":"1.0.8","source":"a0qreixdj2be84ex-katalon-studio-basic-report-plugin.zip","status":1,"created_at":"2019-11-14T10:40:39.146Z","updated_at":"2019-11-14T10:40:51.728Z","min_app_version":"6.3.0","max_app_version":"6.3.3","change_log":""}],"product_type":{"id":2,"name":"Custom Keywords Plugin","description":"Custom Keywords Plugin","sequence":1,"created_at":"2019-03-14T08:13:50.036Z","updated_at":"2019-03-14T08:13:50.036Z","view_type":0},"product_categories":[{"id":2,"name":"Utilities","short_name":"","description":"Utilities","order":2,"hide":false,"use_carousel":false,"created_at":"2019-06-13T08:48:28.556Z","updated_at":"2019-09-06T09:14:14.136Z","product_join_category":{"id":176,"created_at":"2019-10-31T04:34:07.841Z","updated_at":"2019-10-31T04:34:07.841Z","product_id":59,"category_id":2}}],"logoUrl":"https://katalon-store.s3.amazonaws.com/m3j3hddvlvinco5i-BasicReport_140px.png","categories":"Utilities","url":"/product/59"},"license_type":{"id":1,"name":"Free","active":true,"day":null,"month":null,"year":null,"created_at":"2019-01-30T01:47:14.080Z","updated_at":"2019-01-30T01:47:14.080Z"},"free":true,"trial":false,"paid":false,"expired":false,"canceled":false,"uninstalled":false,"finalized":false,"compatible_versions":[{"id":118,"number":"1.0.2","source":"gx1r20f21bg76qli-katalon-studio-report-plugin.zip","status":1,"created_at":"2019-05-15T04:35:14.552Z","updated_at":"2019-09-27T08:53:48.120Z","min_app_version":"6.1.5","max_app_version":null,"change_log":""},{"id":99,"number":"1.0.1","source":"lazh3fjfjz5s1rq7-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-04-26T09:41:28.242Z","updated_at":"2019-09-27T08:53:48.120Z","min_app_version":"6.1.5","max_app_version":null,"change_log":""},{"id":127,"number":"1.0.3","source":"y5cazuxp8qzqqxo2-katalon-studio-basic-report-plugin.zip","status":1,"created_at":"2019-05-24T02:43:18.285Z","updated_at":"2019-09-27T08:53:48.120Z","min_app_version":"6.1.5","max_app_version":null,"change_log":""},{"id":129,"number":"1.0.4","source":"4uc4qvqaug77t726-katalon-studio-basic-report-plugin.zip","status":1,"created_at":"2019-05-24T09:48:58.985Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"6.2.0","max_app_version":null,"change_log":""},{"id":145,"number":"1.0.5","source":"taschuj5zkw1sm7z-katalon-studio-report-plugin.zip","status":1,"created_at":"2019-06-20T08:44:52.820Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"6.2.0","max_app_version":null,"change_log":""},{"id":186,"number":"1.0.6","source":"kzxu34vz9lggwtiq-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-08-15T09:07:34.663Z","updated_at":"2019-09-27T08:53:48.114Z","min_app_version":"6.3.0","max_app_version":null,"change_log":"- Fixed issue \"Cannot export PDF file without image attached\"\r\n- Fixed issue \"Cannot export PDF report if a test step's message contains any special characters\""},{"id":195,"number":"1.0.7","source":"jt7qhc1tiym43jn2-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-09-27T08:07:45.367Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"Fix issue \"Cannot export reports in MacOs\""}],"latest_compatible_version":{"id":195,"number":"1.0.7","source":"jt7qhc1tiym43jn2-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-09-27T08:07:45.367Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"Fix issue \"Cannot export reports in MacOs\""},"current_version":{"id":195,"number":"1.0.7","source":"jt7qhc1tiym43jn2-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-09-27T08:07:45.367Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"Fix issue \"Cannot export reports in MacOs\""},"latest_version":{"id":195,"number":"1.0.7","source":"jt7qhc1tiym43jn2-katalon-studio-report-plugin.jar.zip","status":1,"created_at":"2019-09-27T08:07:45.367Z","updated_at":"2019-09-27T08:53:48.117Z","min_app_version":"7.0.0","max_app_version":null,"change_log":"Fix issue \"Cannot export reports in MacOs\""},"created_date":"November 18th 2019, 4:03 am","download_url":"https://plugins.katalon.com/jt7qhc1tiym43jn2-katalon-studio-report-plugin.jar.zip?Expires=1576845234&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbHVnaW5zLmthdGFsb24uY29tL2p0N3FoYzF0aXltNDNqbjIta2F0YWxvbi1zdHVkaW8tcmVwb3J0LXBsdWdpbi5qYXIuemlwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTc2ODQ1MjM0fX19XX0_&Signature=iS84soyUlQNFv9gC1ZKY7zxmPmDFDoifkmr5vktalLQpF4tX9KpH5M-mrz9GvKXxiZOLVLRR7NtOxf7KF4N~abuqdJUl~alQYMRpy1wMizk9q5AmaPOc1etcPFqLX5YIfPpPRkUAngcpsJlzrt9JpE~llK5d7QheQn0v6BZOl3tpRE3Zc-x0eLPvp7aoo3Yu7P0iz0KN6C4iuN7BSwJkIjLyVL13jIMxBxej49Lse6DKiJsYPvbtlvH9umOyiudFaSVlMVm91wf8s5-Bgt1TjopcAMjGxc0Hdk4BeLRWJGPCty6-C3FJOyim69sUAwFjpoU8ESghPEeIGdamUPQPyA__&Key-Pair-Id=APKAIPDLSSZCBYT7R3MA"}]
+
+!ENTRY org.eclipse.e4.ui.workbench 1 0 2019-12-20 16:33:54.143
+!MESSAGE Katalon version: 7.1.2
+
+!ENTRY org.eclipse.e4.ui.workbench 1 0 2019-12-20 16:33:54.152
+!MESSAGE Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=7.1.2&appType=KSE&licenseType=FREE
+
+!ENTRY org.eclipse.e4.ui.workbench 1 0 2019-12-20 16:33:54.171
+!MESSAGE Plugin info: {
+  "expired": false,
+  "productId": 59,
+  "name": "Basic Report",
+  "id": 32916
+}
+
+!ENTRY org.eclipse.e4.ui.workbench 1 0 2019-12-20 16:33:54.211
+!MESSAGE Plugin name: Basic Report. Is online: true. Plugin location: C:\Users\qcq0264\Katalon_Studio_Windows_64-7.1.2\configuration\plugin\install\32916\1.0.7\katalon-studio-report-plugin.jar.
+
+!ENTRY org.eclipse.e4.ui.workbench 1 0 2019-12-20 16:33:55.789
+!MESSAGE Reloaded plugins successfully.
+
+Fri Dec 20 16:34:04 JST 2019
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:231)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:123)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:52)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:52)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Launcher status after execution process completed: Running
+
+Fri Dec 20 16:34:10 JST 2019
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:231)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:123)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:52)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:52)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Dec 20 16:34:10 JST 2019
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:231)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:123)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:52)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:52)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Dec 20 16:34:16 JST 2019
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:231)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:123)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:52)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:52)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Dec 20 16:34:19 JST 2019
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:231)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:123)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:52)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:52)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+
+Fri Dec 20 16:34:31 JST 2019
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1199)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:259)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.sendAndReceiveData(ServerAPICommunicationUtil.java:231)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.invoke(ServerAPICommunicationUtil.java:123)
+	at com.kms.katalon.application.utils.ServerAPICommunicationUtil.post(ServerAPICommunicationUtil.java:52)
+	at com.kms.katalon.tracking.service.TrackingApiService.post(TrackingApiService.java:24)
+	at com.kms.katalon.tracking.service.TrackingService.sendEventPayload(TrackingService.java:52)
+	at com.kms.katalon.tracking.service.TrackingService.lambda$0(TrackingService.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
